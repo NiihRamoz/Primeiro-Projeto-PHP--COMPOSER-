@@ -1,0 +1,19 @@
+{
+    "name": "nicol/meuprimeiroprojetophpusandocomposer",
+    "description": "mwu primeiro projeto com composer!",
+    "type": "project",
+    "require": {
+        "monolog/monolog": "^3.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "Nicol\\Meuprimeiroprojetophpusandocomposer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "NiihRamoz",
+            "email": "100109298+NiihRamoz@users.noreply.github.com"
+        }
+    ]
+}
